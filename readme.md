@@ -103,8 +103,8 @@
 [![Sports Gear](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Sports-Gear&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Sports-Gear)
 [![AirCNC-Completed](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=AirCNC-Completed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/AirCNC-Completed)
 [![Collage-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Collage-Client)
-[![baby-toy-client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=baby-toy-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/baby-toy-client)
-[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/univista)
+[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Collage-Client)
+[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Collage-Client)
 
 <p align="left">
   <a href="https://github.com/shariful10?tab=repositories" target="_blank"><img alt="Shariful Repositories" title="Shariful Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
