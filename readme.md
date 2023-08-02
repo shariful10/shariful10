@@ -99,7 +99,7 @@
 
 ## Top Open Source -
 
-[![AirCNC-Completed](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=AirCNC-Completed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Soul-Sync-Client)
+[![AirCNC-Completed](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=AirCNC-Completed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/AirCNC-Completed)
 [![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=Toy-Stars&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Toy-Stars-Server)
 [![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=Toy-Stars-Server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Toy-Stars)
 [![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=Chef-Hunter-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Chef-Hunter-Client)
