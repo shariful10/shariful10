@@ -116,7 +116,7 @@
 
 <p align="center">
   <a href="https://github.com/shariful10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wixden&theme=radical&border=7F3FBF&background=0D1117" alt="Shariful's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" alt="Shariful's GitHub streak"/>
   </a>
 </p>
 
