@@ -102,7 +102,7 @@
 [![AirCNC-Completed](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=AirCNC-Completed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/AirCNC-Completed)
 [![Collage-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Collage-Client)
 [![Yammi-Recipe-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=yammi-recipe-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/yammi-recipe-client)
-[![baby-toy-client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=baby-toy-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Chef-Hunter-Client)
+
 [![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/chef-recipe-server)
 [![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/univista)
 
