@@ -85,8 +85,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
@@ -103,7 +101,7 @@
 [![Yammi-Recipe-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=yammi-recipe-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/yammi-recipe-client)
 [![AirCNC-Completed](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=AirCNC-Completed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/AirCNC-Completed)
 [![Collage-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Collage-Client)
-[![Yammi-Recipe-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=yammi-recipe-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/yammi-recipe-client)
+[![Knowledge-Cafe](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=knowledge-cafe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/knowledge-cafe)
 [![Baby-Toy-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=baby-toy-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/baby-toy-client)
 
 <p align="left">
