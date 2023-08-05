@@ -20,9 +20,9 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/shariful10">Md. Shariful Islam</a></b>
-        </samp>
+  <samp>&gt; Hey There!, I am
+    <b><a target="_blank" href="https://github.com/shariful10">Md. Shariful Islam</a></b>
+  </samp>
 </h3>
 
 <p align="center"> 
@@ -130,4 +130,4 @@
   <br/>
 </a>
 
-[![Sk Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sk Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariful10&theme=dracula)](https://github.com/shariful10/github-readme-activity-graph)
