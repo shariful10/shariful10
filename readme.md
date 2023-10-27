@@ -37,7 +37,7 @@
   <a href="https://www.facebook.com/skshariful.islam.18" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shariful"  />
   </a>
-  <a href="https://developer-shariful.netlify.app/" target="blank">
+  <a href="https://shariful-islam.vercel.app" target="blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="shariful" />
   </a>
   <a href="https://www.linkedin.com/in/md-shariful-islam-3132721b8/" target="_blank">
@@ -46,7 +46,7 @@
   <a href="https://dev.to/shariful10" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="shariful" />
   </a>
-  <a href="https://twitter.com/Yamete_Kudesi" target="_blank">
+  <a href="https://twitter.com/shariful_10" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 <!--  <a href="https://instagram.com/wixden.dev" target="_blank">
@@ -97,7 +97,7 @@
 
 ## Top Open Source -
 
-[![Sports Gear](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Sports-Gear&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Sports-Gear)
+[![Sports Gear](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Soul-Sync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Soul-Sync)
 [![Yammi-Recipe-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=yammi-recipe-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/yammi-recipe-client)
 [![AirCNC-Completed](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=AirCNC-Completed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/AirCNC-Completed)
 [![Collage-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Collage-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Collage-Client)
@@ -130,4 +130,6 @@
   <br/>
 </a>
 
-[![Sk Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariful10&theme=dracula)](https://github.com/shariful10/github-readme-activity-graph)
+<!-- [![Sk Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariful10&theme=dracula)](https://github.com/shariful10/github-readme-activity-graph) -->
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shariful10&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
