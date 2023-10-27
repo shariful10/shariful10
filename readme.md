@@ -130,4 +130,4 @@
    <br/>
 </a>
 
-![Sk Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariful10&custom_title=Sk%20Shariful's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sk Shariful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shariful10&custom_title=Sk%20Shariful%20Islam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
