@@ -40,7 +40,7 @@
   <a href="https://shariful-islam.vercel.app" target="blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="shariful" />
   </a>
-  <a href="https://www.linkedin.com/in/md-shariful-islam-3132721b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/shariful10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariful"/>
   </a>
   <a href="https://dev.to/shariful10" target="_blank">
@@ -49,8 +49,8 @@
   <a href="https://twitter.com/shariful_10" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-<!--  <a href="https://instagram.com/wixden.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="wixden" />
+<!--  <a href="https://instagram.com/skshariful.me" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="shariful" />
  </a>  -->
   
 </p>
