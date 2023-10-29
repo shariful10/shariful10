@@ -107,15 +107,13 @@
 <p align="left">
   <a href="https://github.com/shariful10?tab=repositories" target="_blank"><img alt="Shariful Repositories" title="Shariful Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 <br/>
 <hr/>
 <br/>
-
 <p align="center">
-  <a href="https://github.com/shariful10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" alt="Shariful's GitHub streak" width="80%"/>
-  </a>
+   <a href="https://github.com/shariful10">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" alt="Shariful's GitHub streak" width="70%"/>
+   </a>
 </p>
 
 <p align="center">
@@ -125,8 +123,12 @@
 </p>
 
 <p align="center" display="flex"> 
-   <a><img alt="Shariful's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shariful10&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.7%"/></a>
-   <a href="https://github.com/shariful10"><img alt="Shariful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shariful10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.8%"/></a>
+   <a>
+      <img alt="Shariful's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shariful10&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.7%"/>
+   </a>
+   <a href="https://github.com/shariful10">
+      <img alt="Shariful's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shariful10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.8%"/>
+   </a>
    <br/>
 </p>
 
