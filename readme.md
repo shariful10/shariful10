@@ -120,7 +120,7 @@
 
 <p align="center">
    <a href="https://github.com/shariful10">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" alt="Sk Shariful Islam's GitHub Contribution" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" alt="Sk Shariful Islam's GitHub Contribution" width="80%" />
    </a>
 </p>
 
