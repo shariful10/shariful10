@@ -112,18 +112,15 @@
 <hr/>
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/shariful10">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" alt="Shariful's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" alt="Shariful's GitHub streak" width="100%"/>
   </a>
-</p> -->
+</p>
 
 <p align="center">
    <a href="https://github.com/shariful10">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariful10&theme=radical&border=7F3FBF&background=0D1117" alt="Shariful's GitHub streak"  height="192px" width="49.5%" />
-   </a>
-   <a href="https://github.com/shariful10">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" alt="Sk Shariful Islam's GitHub Contribution" height="192px" width="49.5%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariful10&theme=radical" alt="Sk Shariful Islam's GitHub Contribution" width="100%" />
    </a>
 </p>
 
