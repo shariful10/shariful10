@@ -122,7 +122,7 @@
    </a>
 </p>
 
-<p align="center" display="flex"> 
+<p align="center"> 
    <a>
       <img alt="Shariful's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shariful10&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="220px" width="49.7%"/>
    </a>
