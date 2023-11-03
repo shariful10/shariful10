@@ -60,7 +60,7 @@
 
 <!-- <h1 style="text-decoraton: none">About me</h1> -->
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><h1 style="text-decoraton: none">About me</h1><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><p style="text-decoraton: none">About me</p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
