@@ -26,11 +26,11 @@
 </h3>
 
 <p align="center"> 
-  <samp>    
-    「 I am a MERN stack web appplication developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
+   <samp>    
+      「 I am a MERN stack web appplication developer from <b>Bangladesh</b> 」
+      <br>
+      <br>
+   </samp>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 <!-- About Section -->
 
-About me
+<h1>About me</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p>
