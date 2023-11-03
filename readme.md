@@ -58,9 +58,7 @@
 
 <!-- About Section -->
 
-<!-- <h1 style="text-decoraton: none">About me</h1> -->
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><p style="text-decoraton: none">About me</p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1>About me</h1>
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -76,7 +74,7 @@
 <br/>
 <br/>
 
-## Use To Code
+<h1>Use To Code</h1>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -97,7 +95,7 @@
 
 <br/>
 
-## Top Open Source -
+<h1>Top Open Source -</h1>
 
 [![Evogym](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=EvoGym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/EvoGym)
 [![SMartYT-eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=SMartYT-eCommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/SMartYT-eCommerce)
@@ -109,7 +107,6 @@
 <p align="left">
   <a href="https://github.com/shariful10?tab=repositories" target="_blank"><img alt="Shariful Repositories" title="Shariful Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-<br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 <br/>
