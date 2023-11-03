@@ -58,8 +58,9 @@
 
 <!-- About Section -->
 
-<p><h1>About me</h1></p>
+<p style="font-size: 24px;">About me</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br/>
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
