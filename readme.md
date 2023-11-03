@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shariful"  />
    </a>
    <a href="https://shariful-islam.vercel.app" target="blank">
-      <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="shariful" />
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="shariful" />
    </a>
    <a href="https://www.linkedin.com/in/shariful10" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shariful"/>
