@@ -89,7 +89,7 @@
 [![AirCNC](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=AirCNC-Completed&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/AirCNC-Completed)
 
 <p align="left">
-  <a href="https://github.com/shariful10?tab=repositories" target="_blank"><img alt="Shariful Repositories" title="Shariful Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+   <a href="https://github.com/shariful10?tab=repositories" target="_blank"><img alt="Shariful Repositories" title="Shariful Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
