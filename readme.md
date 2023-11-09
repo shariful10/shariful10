@@ -86,7 +86,7 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FF61F6?style=for-the-badge&logo=firebase&logoColor=#ffca28)
+![Firebase](https://img.shields.io/badge/firebase-5849be?style=for-the-badge&logo=firebase&logoColor=#ffca28)
 
 <br/>
 
