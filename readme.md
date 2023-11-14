@@ -152,4 +152,4 @@
    </a>
 </p>
 
-<a align="center" href="https://github.com/shariful10"><img alt="Shariful's Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=shariful10&custom_title=Sk%20Shariful%20Islam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" /></a>
+<!-- <a align="center" href="https://github.com/shariful10"><img alt="Shariful's Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=shariful10&custom_title=Sk%20Shariful%20Islam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" /></a> -->
