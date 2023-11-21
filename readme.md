@@ -46,6 +46,7 @@
    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
    📧 &emsp; Reach me anytime: sharifulisl96@gmail.com<br/><br/>
+   [here](https://github.com/shariful10)
 </p>
 
 <br/>
@@ -148,6 +149,8 @@
       />
    </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shariful10&layout=compact)
 
 <a align="center" href="https://github.com/shariful10">
    <img alt="Shariful's Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=shariful10&custom_title=Md.%20Shariful%20Islam's%20GitHub%20Activity%20Graph&border_color=7F3FBF&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&title_color=F85D7F&area=true" />
