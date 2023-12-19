@@ -83,13 +83,14 @@
 <br/>
 <h1>Top Open Source -</h1>
 
+<div align="center">
 [![Evogym](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=EvoGym&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/EvoGym)
 [![SMartYT-eCommerce](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=SMartYT-eCommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/SMartYT-eCommerce)
 [![MovieVerse](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Movie-Verse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Movie-Verse)
 [![MeetCast](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=MeetCast&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/MeetCast)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Portfolio)
 [![Soul-Sync](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=Soul-Sync&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/Soul-Sync)
-
+</div>
 <p align="left">
    <a 
       href="https://github.com/shariful10?tab=repositories" 
