@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <img style="padding-top: 5px" src="https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg" alt="Wakatime"/>
+      <img style="padding-top: 5px;" src="https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg" alt="Wakatime"/>
     </td>
     <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=shariful10" alt="Profile views"/>
+      <img style="padding-top: 5px;" src="https://komarev.com/ghpvc/?username=shariful10" alt="Profile views"/>
     </td>
   </tr>
 </table>
