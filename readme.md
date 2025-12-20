@@ -1,9 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg)](https://wakatime.com/@018b80c2-466c-447e-92ca-c07272a32504)
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-   <img src="https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg" alt="Wakatime"/>
-   <img src="https://komarev.com/ghpvc/?username=shariful10" alt="Profile views"/>
-</div>
 <table width="100%">
   <tr>
     <td align="left">
