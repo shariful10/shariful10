@@ -1,7 +1,8 @@
 <a href="https://komarev.com/ghpvc/?username=shariful10">
    <img align="right" src="https://komarev.com/ghpvc/?username=shariful10&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-![](https://komarev.com/ghpvc/?username=shariful10)
+
+[![a](https://komarev.com/ghpvc/?username=shariful10)](https://wakatime.com/@018b80c2-466c-447e-92ca-c07272a32504)
 
 [![wakatime](https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg)](https://wakatime.com/@018b80c2-466c-447e-92ca-c07272a32504)
 
