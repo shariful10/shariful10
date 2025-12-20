@@ -2,16 +2,6 @@
   <img src="https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg" alt="Wakatime"/>
   <img src="https://komarev.com/ghpvc/?username=shariful10" alt="Profile views"/>
 </div>
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg" alt="Wakatime"/>
-    </td>
-    <td align="right" width="50%">
-      <img src="https://komarev.com/ghpvc/?username=shariful10" alt="Profile views"/>
-    </td>
-  </tr>
-</table>
 
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F85D7F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Shariful+Islam+✌️;" />
