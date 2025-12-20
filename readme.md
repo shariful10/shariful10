@@ -1,6 +1,6 @@
-<p align="right">
+<div align="right">
    <img src="https://komarev.com/ghpvc/?username=shariful10" alt="Profile views"/>
-</p>
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/018b80c2-466c-447e-92ca-c07272a32504.svg)](https://wakatime.com/@018b80c2-466c-447e-92ca-c07272a32504)
 
