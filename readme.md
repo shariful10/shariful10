@@ -10,7 +10,7 @@
 
 <p align="center"> 
    <samp>    
-      「 I am a Full stack web appplication developer from <b>Bangladesh</b> 」
+      「 I am a Full stack developer from <b>Bangladesh</b> 」
       <br>
       <br>
    </samp>
